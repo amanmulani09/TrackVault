@@ -1,30 +1,26 @@
-Sure! Here's a more concise and human-written version of the README for **TrackVault**:
-
----
-
 # TrackVault
 
 TrackVault is a personal finance management app designed to help you keep track of your expenses, set budgets, and gain insights into your financial habits.
 
-**Tagline**: *Take control of your money, one step at a time.*
+_Take control of your money, one step at a time._
 
 ---
 
 ## Tech Stack
 
-- **Frontend**:  
-  - [Next.js](https://nextjs.org/), [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/)  
-- **Styling**:  
-  - [Tailwind CSS](https://tailwindcss.com/), [Shadcn](https://github.com/shadcn/ui) (Design System)  
-- **Authentication**:  
-  - [Firebase Authentication](https://firebase.google.com/products/auth)  
-- **Database**:  
-  - [Firebase](https://firebase.google.com/)  
-- **Package Manager**:  
-  - [pnpm](https://pnpm.io/)  
-- **Testing**:  
-  - [Vitest](https://vitest.dev/), [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)  
-- **PWA Features**:  
+- **Frontend**:
+  - [Next.js](https://nextjs.org/), [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/)
+- **Styling**:
+  - [Tailwind CSS](https://tailwindcss.com/), [Shadcn](https://github.com/shadcn/ui) (Design System)
+- **Authentication**:
+  - [Firebase Authentication](https://firebase.google.com/products/auth)
+- **Database**:
+  - [Firebase](https://firebase.google.com/)
+- **Package Manager**:
+  - [pnpm](https://pnpm.io/)
+- **Testing**:
+  - [Vitest](https://vitest.dev/), [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- **PWA Features**:
   - Offline support, push notifications, installable on mobile
 
 ---
@@ -44,24 +40,24 @@ TrackVault is a personal finance management app designed to help you keep track 
 
 1. **Clone the repo**:
 
-    ```bash
-    git clone https://github.com/your-username/trackvault.git
-    cd trackvault
-    ```
+   ```bash
+   git clone https://github.com/your-username/trackvault.git
+   cd trackvault
+   ```
 
 2. **Install dependencies**:
 
-    ```bash
-    pnpm install
-    ```
+   ```bash
+   pnpm install
+   ```
 
 3. **Run the dev server**:
 
-    ```bash
-    pnpm dev
-    ```
+   ```bash
+   pnpm dev
+   ```
 
-    Open [http://localhost:3000](http://localhost:3000) in your browser.
+   Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
